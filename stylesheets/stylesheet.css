@@ -497,6 +497,16 @@ header h2 {
   max-width: 100%;
 }
 
+#main-links {
+  font-family: 'Open Sans',sans-serif;
+  font-size: 16px;
+  text-align: left;
+  vertical-align: text-top;
+  color: #000000; 
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
 aside#sidebar {
   float: right;
   width: 200px;
